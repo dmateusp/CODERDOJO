@@ -1,4 +1,6 @@
 # Contributing
+
+Any contribution should be done on the "dev" branch! The master branch will be updated once the activities are tested and validated.
 At your first contribution do not forget to add your name and contact information to the README.md file
 
 ## Using GitHub
