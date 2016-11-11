@@ -19,6 +19,10 @@ You can learn about CoderDojo here www.coderdojo.org
 
 Feel free to use these resources in any context (or contribute!), one of the projects is to make these activities available in many languages!.
 
+## Feedback
+
+If you have ideas to improve activities or create new ones, feel free to create a new issue on the repository or/and contribute yourself :)
+
 ## Contributors
 
 Daniel Mateus Pires - dmateusp@gmail.com
