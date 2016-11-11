@@ -3,6 +3,10 @@
 Any contribution should be done on the "dev" branch! The master branch will be updated once the activities are tested and validated.
 At your first contribution do not forget to add your name and contact information to the README.md file
 
+### Guide on contributing to Open Source projects:
+
+http://blog.davidecoppola.com/2016/11/howto-contribute-to-open-source-project-on-github/
+
 ## Using GitHub
 1. Fork the repository
 2. Clone your fork
