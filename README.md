@@ -31,4 +31,5 @@ Daniel Mateus Pires - dmateusp@gmail.com
 ### Contacts
 
 You can contact me at dmateusp@gmail.com
+
 Connect with me at https://ie.linkedin.com/in/daniel-mateus-pires
