@@ -38,4 +38,5 @@ In that case, please translate the README.md as well
 Example (for french):
 
 /solutions/fr/MyTranslatedActivity.ipynb
+
 /activities/fr/MyTranslatedActivity.ipynb
