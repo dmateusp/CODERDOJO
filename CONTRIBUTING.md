@@ -12,6 +12,8 @@ At your first contribution do not forget to add your name and contact informatio
 ### Creating a new activity
 An activity is supposed to be: fun, interactive and accessible.
 
+If the activity is under development (or it is just and idea) please use the issues feature!
+
 Do not forget to add information at the beginning of the activity such as the authors (yourself?).
 If your activity assumes that the persons have completed some other activities before, please add that information as well.
 If you have to use new libraries use the `pip install` command and install them in devenv, then zip the folder again and replace the existing zipped folder.
