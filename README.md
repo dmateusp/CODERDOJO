@@ -8,12 +8,12 @@ You can learn about CoderDojo here www.coderdojo.org
 ## How to run an activity?
 
 ### For mentors / ninjas
-1. Download the activities / solutions here https://github.com/dmateusp/CODERDOJO/archive/master.zip
-2. Unzip the downloaded file to any folder, we will name it CoderDojoActivities as an example
-3. Go to the folder CoderDojoActivities and unzip `devenv.zip` at the root of the folder (virtual environment containing the python libraries)
-4. Launch the virtual environment by typing `.\devenv\Scripts\activate` in a command line (Windows) at the root of CoderDojoActivities, Mac and Linux will probably use `./devenv/Scripts/activate`
-5. Launch the Jupyter activities by typing `jupyter notebook` in the console where the virtual environment is activated (same console), this will open a website
-6. On the website, navigate to /activities and chose an activity! you can also go to /solutions to see the solutions to each activity.
+1. Download and install Anaconda3 https://www.continuum.io/downloads
+2. Download these activities https://github.com/dmateusp/CODERDOJO/archive/master.zip extract and rename the folder (example: CODERDOJO)
+2. Launch the Anaconda terminal (On Windows: Search Windows > Anaconda Prompt)
+3. Change directory to the root of the activities (example: /CODERDOJO)
+4. Launch the Jupyter activities by typing `jupyter notebook` in the console Anaconda terminal, this will open a website
+5. Start an activity :)
 
 ## Can I use this?
 
