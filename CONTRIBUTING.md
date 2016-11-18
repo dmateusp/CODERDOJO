@@ -8,11 +8,12 @@ At your first contribution do not forget to add your name and contact informatio
 http://blog.davidecoppola.com/2016/11/howto-contribute-to-open-source-project-on-github/
 
 ## Using GitHub
+
 1. Fork the repository
 2. Clone your fork
-3. Unzip the virtual environment `devenv.zip` to the root of the project as `devenv`
-4. Launch the virtual environment by opening a command line in the project folder and typing the command .\devenv\Scripts\activate (Windows) at the root of CoderDojoActivities, Mac and Linux will probably use ./devenv/Scripts/activate
-5. Launch Jupyter by typing `jupyter notebook` in the same command line (you must have the virtual environment activated)
+3. Download and install Anaconda3 https://www.continuum.io/downloads
+4. Launch the Anaconda terminal (On Windows: Search Windows > Anaconda Prompt)
+5. Launch the Jupyter activities by typing `jupyter notebook` in the console Anaconda terminal, this will open a website
 
 
 ### Creating a new activity
